@@ -1,4 +1,4 @@
-interface Person {
+export interface Person {
         nama: string,
         Sapa(nama: string): string
 }
